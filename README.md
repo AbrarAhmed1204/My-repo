@@ -1,16 +1,16 @@
 <h1>STOCK PRICE PREDICTION</h1>
 <h2>Overview</h2>
-<p>This project utilizes machine learning techniques to predict future stock prices based on historical data. The provided Jupyter Notebook (<code>stock_price_prediction.ipynb</code>) demonstrates the entire process, from data preprocessing to model evaluation.</p>
+<p>This project utilizes machine learning techniques to predict future stock prices based on historical data. The provided Jupyter Notebook (<code>STOCK PRICE PREDICTION.ipynb</code>) demonstrates the entire process, from data preprocessing to model evaluation.</p>
 <h2>Files</h2>
     <ul>
-        <li><code>stock_price_prediction.ipynb</code>: Jupyter Notebook containing the project code and documentation.</li>
-        <li><code>stock_data.csv</code>: CSV file containing historical stock price data used for training and testing.</li>
+        <li><code>STOCK PRICE PREDICTION.ipynb</code>: Jupyter Notebook containing the project code and documentation.</li>
+        <li><code>Stock_price_prediction.csv</code>: CSV file containing historical stock price data used for training and testing.</li>
     </ul>
 <h2>Usage</h2>
     <ol>
-        <li>Open <code>stock_price_prediction.ipynb</code> in a Jupyter Notebook environment.</li>
+        <li>Open <code>STOCK PRICE PREDICTION.ipynb</code> in a Jupyter Notebook environment.</li>
         <li>Follow the instructions and execute the cells sequentially to perform data preprocessing, model training, and prediction.</li>
-        <li>Ensure that <code>stock_data.csv</code> is in the same directory as the notebook.</li>
+        <li>Ensure that <code>Stock_price_prediction.csv</code> is in the same directory as the notebook.</li>
     </ol>
 <h2>Dependencies</h2>
     <p>This project requires the following Python libraries:</p>
